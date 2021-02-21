@@ -1,2 +1,2 @@
 # IntroToGithub
-Coursera lab
+Coursera lab week 3
